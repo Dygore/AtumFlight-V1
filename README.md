@@ -16,3 +16,5 @@ Our flight computer will have 3 pyrotechnic channels to allow for dual deploy an
 
 ## References
 Stay tuned for the website being built for the project!!
+
+Dylan Gore 7/1/22
